@@ -2,7 +2,7 @@
 Python codes for capturing synchronized stereo images with Raspberry Pi cameras (for 3D-DIC).
 
 Disclaimer: 
-This was written by Aaron Jaeger, not Dana. You can contact him at amjaeger1317_at_gmail_dot_com to complain.
+This was written by Aaron Jaeger you can contact him at amjaeger1317_at_gmail_dot_com
 This is not actively maintained. 
 This was written to work on a custom built multi-camera array, and work on a specific windows desktop in the lab. 
 At this point in time it is not recommended that you try to run this. It is here for reference if you are trying to set up an array of network controlled raspberry pi cameras. Feel free to contact Aaron if you would like advice/more info. 
